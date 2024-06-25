@@ -36,6 +36,11 @@
 
                 /* Header */
 
+body {
+    /* background-color: #181419; */
+    background-color: #9f3647;
+}
+
 header {
     background-color: #9f3647;
     color: #fff;
